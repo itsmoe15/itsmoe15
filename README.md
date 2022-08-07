@@ -1,4 +1,7 @@
-# Hi there, I`m Moe 👋
+![Alt Text](https://media.discordapp.net/attachments/917029832427204648/1005848527349485599/8uuTe4WSyA5HIJ8K.gif)
+<hr>
+<h1 align="center">Hi there, I`m Moe 👋</h1>
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsmoe15&theme=midnight-purple&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

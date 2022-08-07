@@ -1,6 +1,8 @@
 # Hi there, I`m Moe 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmoe15&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsmoe15&theme=midnight-purple&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

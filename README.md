@@ -45,4 +45,4 @@ Here are some ideas to get you started:
   <p align="center">
     Check Out My Last Project, Discord Messaging Panel that allows you to message inside of a bot!
     <br />
-
+<hr>

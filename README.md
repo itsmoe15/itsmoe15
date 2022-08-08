@@ -1,6 +1,7 @@
-![Alt Text](https://media.discordapp.net/attachments/917029832427204648/1005848527349485599/8uuTe4WSyA5HIJ8K.gif)
-<hr>
 <h1 align="center">Hi there, I`m Moe 👋</h1>
+
+
+
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsmoe15&theme=midnight-purple&show_icons=true" />
@@ -30,3 +31,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+<hr>
+<!-- Logo -->
+<p align="center">
+  <a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal">
+    <img src="https://cdn.discordapp.com/attachments/917029832427204648/1006024065464676462/SledgehammerLogo.png?size=32" alt="Logo" width="250" height="250">
+  </a>
+</p>
+
+<!-- Title -->
+<h1 align="center">DiscordSledgeHammer</h1>
+  <p align="center">
+    Check Out My Last Project, Discord Messaging Panel that allows you to message inside of a bot!
+    <br />
+

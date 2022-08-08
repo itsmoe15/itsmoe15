@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 <!-- Logo -->
 <p align="center">
-  <a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal">
+  <a href="https://itsmoe15.github.io/Discord-SledgeHammer-Portal/login.html">
     <img src="https://cdn.discordapp.com/attachments/917029832427204648/1006024065464676462/SledgehammerLogo.png?size=32" alt="Logo" width="250" height="250">
   </a>
 </p>

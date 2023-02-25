@@ -14,8 +14,10 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
+<hr>
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
+</p>
 
 <!--
 **itsmoe15/itsmoe15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

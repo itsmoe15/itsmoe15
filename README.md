@@ -64,17 +64,52 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 </p>
 
+<Br>
+
+## 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsmoe15&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<Br>
+
+## 🚀 My Projects : 
+### [🐚 C  Simple Shell ](https://github.com/itsmoe15/simple_shell)
+<a href="https://github.com/itsmoe15/simple_shell" target="_blank"><img src="shell.jpg" alt="C  Simple Shell" height="413" width="413.5"></a>
+
+A simple UNIX command interpreter that allows users to execute basic commands found in a typical UNIX shell environment. It is designed to run on Ubuntu 20.04 LTS and is written in the C programming language using system calls to manipulate files and processes.
+
+The shell provides users with a command prompt where they can enter commands to be executed. It supports a variety of built-in commands, including changing directories, listing files and directories, executing programs, and setting environment variables. It also supports input and output redirection, piping, and background processes.
+
+The shell follows strict guidelines and best practices, including using system calls only when necessary to minimize overhead and avoid potential security risks. It also follows the Betty coding style to improve readability and maintainability.
+<br><br>
+
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+### [🖨 Printf Library](https://github.com/itsmoe15/printf)
+<a href="https://github.com/itsmoe15/printf" target="_blank"><img src="printf.png" alt="dj Me!" height="200" width="600"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+This project is a library written in C that aims to replace the built-in `printf` function. The library provides a more customizable and efficient implementation of the `printf` function, allowing users to format and print values in a variety of ways.
 
 ---
+### [🔨 Discord Sledge Hammer ](https://github.com/itsmoe15/Discord-SledgeHammer-Portal)
+<a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal" target="_blank"><img src="dshp.png" alt="dj Me!" height="384" width="384"></a>
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+🔨 Discord Messaging Panel that allows you to message inside of a bot!
+
+---
+### [🔐 SecurePassBot ](https://github.com/itsmoe15/SecurePassBot)
+<a href="https://github.com/itsmoe15/SecurePassBot" target="_blank"><img src="spb.png" alt="dj Me!"></a>
+
+🔐 This is a Discord bot that checks if a password has been compromised in a data breach.<br>
+The bot uses the Have I Been Pwned? API to check if a password has been leaked, and it provides tips on creating strong and secure passwords.
+
+---
+### [🎼 Moe-s-Dj ](https://github.com/itsmoe15/Moe-s-Dj)
+<a href="https://github.com/itsmoe15/Moe-s-Dj" target="_blank"><img src="8aa95700-7730-11e9-84be-e80f28520325.png" alt="dj Me!" height="320" width="640"></a>
+
+🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
+
+---

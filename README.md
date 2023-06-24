@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/sgtJC7wz/github-header-image.png" alt="Logo" width="939" height="208">
+<img src="moe.png" alt="Logo" width="939" height="208">
 <br>
 <br>
 <!-- <p align="center"><img src="moedark.png" width="200"/></p> -->
@@ -14,9 +14,9 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsmoe15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS:" alt=""></p>
 
-<h1 align="center">hey there, I`m Moe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there, I`m Moe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="hacker-typing.gif" width="600" height="300"  /></p>
 
 ## :man_technologist: &nbsp;About Me :
 
@@ -73,8 +73,9 @@
 <Br>
 
 ## 🚀 My Projects : 
-### [🐚 C  Simple Shell ](https://github.com/itsmoe15/simple_shell)
-<a href="https://github.com/itsmoe15/simple_shell" target="_blank"><img src="shell.jpg" alt="C  Simple Shell" height="413" width="413.5"></a>
+### [🐚 C  Simple Shell ](align="center"https://github.com/itsmoe15/simple_shell)
+<div style="display: flex; justify-content: center;">
+<a href="https://github.com/itsmoe15/simple_shell" target="_blank"><img src="shell.jpg"  alt="C  Simple Shell" height="413" width="413.5" ></a></div>
 
 A simple UNIX command interpreter that allows users to execute basic commands found in a typical UNIX shell environment. It is designed to run on Ubuntu 20.04 LTS and is written in the C programming language using system calls to manipulate files and processes.
 
@@ -86,14 +87,14 @@ The shell follows strict guidelines and best practices, including using system c
 ---
 
 ### [🖨 Printf Library](https://github.com/itsmoe15/printf)
-<a href="https://github.com/itsmoe15/printf" target="_blank"><img src="printf.png" alt="dj Me!" height="200" width="600"></a>
+<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/printf" target="_blank"><img src="printf.png" alt="dj Me!" height="200" width="600"></a></div>
 
 
 This project is a library written in C that aims to replace the built-in `printf` function. The library provides a more customizable and efficient implementation of the `printf` function, allowing users to format and print values in a variety of ways.
 
 ---
 ### [🔨 Discord Sledge Hammer ](https://github.com/itsmoe15/Discord-SledgeHammer-Portal)
-<a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal" target="_blank"><img src="dshp.png" alt="dj Me!" height="384" width="384"></a>
+<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal" target="_blank"><img src="dshp.png" alt="dj Me!" height="384" width="384"></a></div>
 
 
 
@@ -101,14 +102,14 @@ This project is a library written in C that aims to replace the built-in `printf
 
 ---
 ### [🔐 SecurePassBot ](https://github.com/itsmoe15/SecurePassBot)
-<a href="https://github.com/itsmoe15/SecurePassBot" target="_blank"><img src="spb.png" alt="dj Me!"></a>
+<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/SecurePassBot" target="_blank"><img src="spb.png" alt="dj Me!"></a></div>
 
 🔐 This is a Discord bot that checks if a password has been compromised in a data breach.<br>
 The bot uses the Have I Been Pwned? API to check if a password has been leaked, and it provides tips on creating strong and secure passwords.
 
 ---
 ### [🎼 Moe-s-Dj ](https://github.com/itsmoe15/Moe-s-Dj)
-<a href="https://github.com/itsmoe15/Moe-s-Dj" target="_blank"><img src="8aa95700-7730-11e9-84be-e80f28520325.png" alt="dj Me!" height="320" width="640"></a>
+<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/Moe-s-Dj" target="_blank"><img src="8aa95700-7730-11e9-84be-e80f28520325.png" alt="dj Me!" height="320" width="640"></a></div>
 
 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
 

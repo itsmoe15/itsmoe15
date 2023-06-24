@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://twitter.com/itzmoe09"><img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="mailto:moe.montaser@protonmail.com""><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="email Badge"></a>
-<a href="discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+<a href="https://discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
 </p>
 
 <p align="center">

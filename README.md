@@ -20,7 +20,7 @@
 
 ## :man_technologist: &nbsp;About Me :
 
-### I am a software engineering student from Egypt. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### I am a Software Engineering Student and Linux instructor from Egypt. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 I`m passionate about cybersecurity, AI, and computer vision
   

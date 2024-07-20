@@ -9,11 +9,6 @@
 <a href="https://discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
 </p>
 
-
-
-<p align="center">
-<a href="https://paypal.me/itzmo3" target="_blank"><img src="https://img.shields.io/badge/paypal-darkblue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Me!" height="45" width="150"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsmoe15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS:" alt=""></p>
 
 <h1 align="center">Hey there, I`m Moe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -24,18 +19,20 @@
 
 <img align="right" alt="PC GIF" src="PC.gif" width="190" />
 
-### I am a Computer Science Student and Linux instructor from Egypt. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="30">
+### I am a Computer Science Student from Egypt, Thats very much it. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="30">
 
-- 💻 I`m passionate about cybersecurity, AI, and computer vision
+- 👨‍💻 I do some [CodeForces](https://codeforces.com/profile/Moe.Montaser) in my free time
+   - <sub> suck at it but i do it anyway ._.  </sub>
+
+
+[//]: # (- 💻 I`m passionate about cybersecurity, AI, and computer vision)
   
-- 🔭  I started my journey in computing at the age of 14, inspired by the TV show Mr. Robot.
-  - Since then, I've explored various areas of computing, including hacking, software engineering, system administration, and helpdesk support. 🐱‍💻
+[//]: # (- 🔭  I started my journey in computing at the age of 14, inspired by the TV show Mr. Robot.)
+  [//]: # (- Since then, I've explored various areas of computing, including hacking, software engineering, system administration, and helpdesk support. 🐱‍💻)
 
-- 🚀 I have experience building a variety of bots for different use cases. Additionally, I have worked on projects using YOLO.
-
-- 🌱 In my free time, I enjoy solving CTFs on [HackTheBox](https://www.hackthebox.com) and reading tech articles.
+[//]: # (- 🚀 I have experience building a variety of bots for different use cases. Additionally, I have worked on projects using YOLO.)
   
-- 🐍 I mainly code in Python 
+[//]: # (- 🐍 I mainly code in Python) 
 
 
 <br>

@@ -19,7 +19,7 @@
 
 <img align="right" alt="PC GIF" src="PC.gif" width="190" />
 
-### I am a Computer Science Student from Egypt, Thats very much it. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="30">
+### I am a Computer Science Student, Thats very much it. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="30">
 
 - 👨‍💻 I do some [CodeForces](https://codeforces.com/profile/Moe.Montaser) in my free time
    - <sub> suck at it but i do it anyway ._.  </sub>

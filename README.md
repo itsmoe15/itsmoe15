@@ -69,8 +69,8 @@
 <Br>
 
 ## 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsmoe15&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itsmoe15&theme=tokyonight) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&layout=compact&theme=vision-friendly-dark)
 
 <Br>
 

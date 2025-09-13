@@ -50,7 +50,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
@@ -60,7 +59,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;

@@ -9,6 +9,7 @@
 <a href="https://twitter.com/itzmoe09"><img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="mailto:moe.montaser@protonmail.com""><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="email Badge"></a>
 <a href="https://discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+<a href="https://www.kaggle.com/itsmoe"><img src="https://img.shields.io/badge/kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=itsmoe15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS:" alt=""></p>

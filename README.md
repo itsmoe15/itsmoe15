@@ -1,124 +1,132 @@
-
 <!-- <img src="moe.png" alt="Logo" width="939" height="208"> -->
-![👋 Hi, my name is Moe 🦦](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
+<div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="👋 Hi, my name is Moe 🦦" width="100%">
+</div>
 
-<br>
-<br>
-<!-- <p align="center"><img src="moedark.png" width="200"/></p> -->
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/itzmoe09"><img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="mailto:moe.montaser@protonmail.com"><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="email Badge"></a>
+  <a href="https://discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+  <a href="https://www.kaggle.com/itsmoe"><img src="https://img.shields.io/badge/kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
+</div>
+
 <p align="center">
-<a href="https://twitter.com/itzmoe09"><img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-<a href="mailto:moe.montaser@protonmail.com""><img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="email Badge"></a>
-<a href="https://discordapp.com/users/395203117983072264"><img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
-<a href="https://www.kaggle.com/itsmoe"><img src="https://img.shields.io/badge/kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=itsmoe15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS:" alt="Profile Views">
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=itsmoe15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS:" alt=""></p>
+<h1 align="center">Hey there, I'm Moe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h1 align="center">Hey there, I`m Moe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="hacker-typing.gif" width="600" height="300"  /></p>
-
-## :man_technologist: &nbsp;About Me :
-
-<img align="right" alt="PC GIF" src="PC.gif" width="190" />
-
-### I am a Computer Science Student, Thats very much it. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="30">
-
-- 👨‍💻 I do some [CodeForces](https://codeforces.com/profile/Moe.Montaser) in my free time
-   - <sub> suck at it but i do it anyway ._.  </sub>
-
-
-[//]: # (- 💻 I`m passionate about cybersecurity, AI, and computer vision)
-  
-[//]: # (- 🔭  I started my journey in computing at the age of 14, inspired by the TV show Mr. Robot.)
-  [//]: # (- Since then, I've explored various areas of computing, including hacking, software engineering, system administration, and helpdesk support. 🐱‍💻)
-
-[//]: # (- 🚀 I have experience building a variety of bots for different use cases. Additionally, I have worked on projects using YOLO.)
-  
-[//]: # (- 🐍 I mainly code in Python) 
-
+<p align="center">
+  <a href="https://github.com/itsmoe15">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Junior+Machine+Learning+Engineer;AI+%26+Computer+Science+Student;Full-Stack+MERN+Developer;Huawei+ICT+Academy+Ambassador;Passionate+about+inclusive+AI!" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>
 
-## 🛠 &nbsp;Languages and Tools :
+## 👨‍💻 &nbsp;About Me
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="apachekafka" alt="apachekafka" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+<img align="right" alt="PC GIF" src="PC.gif" width="220" />
 
+I am an **AI & Computer Science student** specializing in **Machine Learning** and **Full-Stack Development**. I'm passionate about leveraging AI and software engineering to build inclusive, real-world solutions that make a genuine impact. <img src="https://usagif.com/wp-content/uploads/gif/egypt-flag-2.gif" width="25">
 
+- 🏆 **Award Winner:** 2nd Place at GDG DevHack'24 & 4th at IEEE UEA7 Hackathon.
+- 🎓 **Student:** BSc in Computer Science & Artificial Intelligence at Sphinx University.
+- 🌟 **Leadership:** Huawei ICT Academy Ambassador.
+- 🧠 **Focus:** Machine Learning, Computer Vision, Sequence Modeling, and integrating LLMs into web apps.
+- 💻 **Competitive Programming:** I solve problems on [CodeForces](https://codeforces.com/profile/Moe.Montaser) in my free time. 
 
-</p>
+<br>
 
-<Br>
+<br>
 
-## 🔥 &nbsp; My Stats :
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itsmoe15&theme=tokyonight) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&layout=compact&theme=vision-friendly-dark)
+## 🛠 &nbsp;Languages and Tools
 
-<Br>
-
-## 🚀 My Projects : 
-<details>
-
-### [🐚 C  Simple Shell ](align="center"https://github.com/itsmoe15/simple_shell)
-<div style="display: flex; justify-content: center;">
-<a href="https://github.com/itsmoe15/simple_shell" target="_blank"><img src="shell.jpg"  alt="C  Simple Shell" height="413" width="413.5" ></a></div>
-
-A simple UNIX command interpreter that allows users to execute basic commands found in a typical UNIX shell environment. It is designed to run on Ubuntu 20.04 LTS and is written in the C programming language using system calls to manipulate files and processes.
-
-The shell provides users with a command prompt where they can enter commands to be executed. It supports a variety of built-in commands, including changing directories, listing files and directories, executing programs, and setting environment variables. It also supports input and output redirection, piping, and background processes.
-
-The shell follows strict guidelines and best practices, including using system calls only when necessary to minimize overhead and avoid potential security risks. It also follows the Betty coding style to improve readability and maintainability.
+<div align="center">
+  
+**AI & Machine Learning**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" title="Jupyter"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" title="Kaggle"/>&nbsp;
 <br><br>
 
----
+**Full-Stack Development**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>&nbsp;
+<br><br>
 
-### [🖨 Printf Library](https://github.com/itsmoe15/printf)
-<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/printf" target="_blank"><img src="printf.png" alt="dj Me!" height="200" width="600"></a></div>
+**Languages & Infrastructure**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title="C"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40" title="Ubuntu"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/>&nbsp;
 
+</div>
 
-This project is a library written in C that aims to replace the built-in `printf` function. The library provides a more customizable and efficient implementation of the `printf` function, allowing users to format and print values in a variety of ways.
+<br>
 
----
-### [🔨 Discord Sledge Hammer ](https://github.com/itsmoe15/Discord-SledgeHammer-Portal)
-<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/Discord-SledgeHammer-Portal" target="_blank"><img src="dshp.png" alt="dj Me!" height="384" width="384"></a></div>
+## 🚀 &nbsp;Featured Projects
 
-
-
-🔨 Discord Messaging Panel that allows you to message inside of a bot!
-
----
-### [🔐 SecurePassBot ](https://github.com/itsmoe15/SecurePassBot)
-<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/SecurePassBot" target="_blank"><img src="spb.png" alt="dj Me!"></a></div>
-
-🔐 This is a Discord bot that checks if a password has been compromised in a data breach.<br>
-The bot uses the Have I Been Pwned? API to check if a password has been leaked, and it provides tips on creating strong and secure passwords.
-
----
-### [🎼 Moe-s-Dj ](https://github.com/itsmoe15/Moe-s-Dj)
-<div style="display: flex; justify-content: center;"><a href="https://github.com/itsmoe15/Moe-s-Dj" target="_blank"><img src="8aa95700-7730-11e9-84be-e80f28520325.png" alt="dj Me!" height="320" width="640"></a></div>
-
-🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
-
----
+<details>
+<summary><b>🤟 Moeen: Arabic Sign Language Translator</b> <i>(GDG`24 DevHack 2nd Place Winner)</i></summary>
+<br>
+Developed an AI-powered web application capable of translating Arabic Sign Language to text and speech in real-time, bridging communication gaps for individuals with hearing and speech impairments.<br>
+<b>Tech Stack:</b> Google MediaPipe (hand landmark detection), LSTM (sequence modeling), LLM (word correction), React, Node.js.<br>
 </details>
+
+<details>
+<summary><b>🧠 Quiz-App: AI-Powered Educational Platform</b></summary>
+<br>
+Intelligent web platform for creating, managing, and analyzing quizzes. Implemented AI-driven quiz generation using the Gemini API to automatically create questions directly from uploaded lecture files (PDF, DOCX, TXT).<br>
+<b>Tech Stack:</b> React, Tailwind CSS, Node.js, Gemini API.<br>
+</details>
+
+<details>
+<summary><b>🐚 C Simple Shell</b></summary>
+<br>
+A robust UNIX command interpreter written entirely from scratch in C. Supports varied built-in commands, environmental variables, and effectively handles input/output manipulation, piping, and background processes executing system calls directly.<br>
+<div align="center"><a href="https://github.com/itsmoe15/simple_shell" target="_blank"><img src="shell.jpg" alt="C Simple Shell" height="250"></a></div>
+</details>
+
+<details>
+<summary><b>🔐 SecurePassBot & Discord Utils</b></summary>
+<br>
+Developed multiple Discord integrations including a compromised password checker using the <i>Have I Been Pwned?</i> API, music bots built with Discord.js, and an in-client messaging panel.<br>
+<div align="center"><a href="https://github.com/itsmoe15/SecurePassBot" target="_blank"><img src="spb.png" height="200" alt="SecurePassBot"></a></div>
+</details>
+
+<br>
+
+## 🔥 &nbsp;GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmoe15&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Moe's Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoe15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoe15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmoe15&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Moe's Activity Graph" width="90%" />
+</div>
+
+<br>
+<div align="center">
+  <img src="hacker-typing.gif" width="600" height="300" />
+</div>
